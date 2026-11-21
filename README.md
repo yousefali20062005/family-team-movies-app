@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="./logo.png" alt="Family Team Movies & Series" width="180" />
 
@@ -9,7 +9,7 @@
 
 <br/>
 
-[![تحميل أحدث إصدار للويندوز](https://img.shields.io/badge/⬇%20تحميل%20التطبيق%20للويندوز%20(Setup%20.exe)-v2.6.0-EAB963?style=for-the-badge&labelColor=09090E)](https://github.com/yousefali20062005/family-team-movies-app/releases/latest)
+[![تحميل أحدث إصدار للويندوز](https://img.shields.io/badge/⬇%20تحميل%20التطبيق%20للويندوز%20(Setup%20.exe)-v2.6.1-EAB963?style=for-the-badge&labelColor=09090E)](https://github.com/yousefali20062005/family-team-movies-app/releases/latest)
 
 [![الموقع الرسمي](https://img.shields.io/badge/🌐%20الموقع%20الرسمي-Family%20Team%20Movies-14141F?style=for-the-badge&logoColor=white)](https://family-team-ms-ebon.vercel.app)
 [![موقع العائلة](https://img.shields.io/badge/🎮%20موقع%20العائلة%20(Discord)-Family%20Team%20Hub-5865F2?style=for-the-badge&logoColor=white)](https://family-team.netlify.app/)
