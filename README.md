@@ -15,6 +15,7 @@
 [![Movies Website](https://img.shields.io/badge/🎬%20Web%20Version-Family%20Team%20Movies-14141F?style=for-the-badge&logoColor=white)](https://family-team-ms-ebon.vercel.app)
 [![FT Music](https://img.shields.io/badge/🎵%20FT%20Music-Desktop%20App-1DB954?style=for-the-badge&labelColor=0D0D10)](https://github.com/yousefali20062005/ft-music-app/releases/latest)
 [![FT Launcher](https://img.shields.io/badge/⛏%20FT%20Launcher-Minecraft-6366F1?style=for-the-badge&labelColor=0D0E14)](https://github.com/yousefali20062005/ft-launcher-app/releases/latest)
+[![FT Wallpapers](https://img.shields.io/badge/🖼%20FT%20Wallpapers-4K%20Live-00E5FF?style=for-the-badge&labelColor=070910)](https://github.com/yousefali20062005/ft-wallpapers-app/releases/latest)
 
 </div>
 
