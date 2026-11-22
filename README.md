@@ -9,10 +9,12 @@
 
 <br/>
 
-[![تحميل أحدث إصدار للويندوز](https://img.shields.io/badge/⬇%20تحميل%20التطبيق%20للويندوز%20(Setup%20.exe)-v2.9.0-EAB963?style=for-the-badge&labelColor=09090E)](https://github.com/yousefali20062005/family-team-movies-app/releases/latest)
+[![Download Family Team Movies for Windows](https://img.shields.io/badge/⬇%20Download%20Movies%20%26%20Series%20(Setup%20.exe)-v2.9.0-EAB963?style=for-the-badge&labelColor=09090E)](https://github.com/yousefali20062005/family-team-movies-app/releases/latest)
 
-[![الموقع الرسمي](https://img.shields.io/badge/🌐%20الموقع%20الرسمي-Family%20Team%20Movies-14141F?style=for-the-badge&logoColor=white)](https://family-team-ms-ebon.vercel.app)
-[![موقع العائلة](https://img.shields.io/badge/🎮%20موقع%20العائلة%20(Discord)-Family%20Team%20Hub-5865F2?style=for-the-badge&logoColor=white)](https://family-team.netlify.app/)
+[![Family Team Hub](https://img.shields.io/badge/🌐%20Family%20Team-Hub%20%26%20Discord-5865F2?style=for-the-badge&logoColor=white)](https://family-team.netlify.app/)
+[![Movies Website](https://img.shields.io/badge/🎬%20Web%20Version-Family%20Team%20Movies-14141F?style=for-the-badge&logoColor=white)](https://family-team-ms-ebon.vercel.app)
+[![FT Music](https://img.shields.io/badge/🎵%20FT%20Music-Desktop%20App-1DB954?style=for-the-badge&labelColor=0D0D10)](https://github.com/yousefali20062005/ft-music-app/releases/latest)
+[![FT Launcher](https://img.shields.io/badge/⛏%20FT%20Launcher-Minecraft-6366F1?style=for-the-badge&labelColor=0D0E14)](https://github.com/yousefali20062005/ft-launcher-app/releases/latest)
 
 </div>
 
