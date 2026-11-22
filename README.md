@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Download Family Team Movies for Windows](https://img.shields.io/badge/⬇%20Download%20Movies%20%26%20Series%20(Setup%20.exe)-v2.9.0-EAB963?style=for-the-badge&labelColor=09090E)](https://github.com/yousefali20062005/family-team-movies-app/releases/latest/download/FTMovies_Setup.exe)
+[![Download Family Team Movies for Windows](https://img.shields.io/badge/⬇%20Download%20Movies%20%26%20Series%20(Setup%20.exe)-v2.9.1-EAB963?style=for-the-badge&labelColor=09090E)](https://github.com/yousefali20062005/family-team-movies-app/releases/latest/download/FTMovies_Setup.exe)
 
 [![Family Team Hub](https://img.shields.io/badge/🌐%20Family%20Team-Hub%20%26%20Discord-5865F2?style=for-the-badge&logoColor=white)](https://family-team.netlify.app/)
 [![Movies Website](https://img.shields.io/badge/🎬%20Web%20Version-Family%20Team%20Movies-14141F?style=for-the-badge&logoColor=white)](https://family-team-ms-ebon.vercel.app)
